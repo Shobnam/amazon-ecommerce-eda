@@ -41,14 +41,23 @@ Exploratory Data Analysis (EDA) on **1,465 Amazon products** to uncover trends i
 - **Price vs Ratings:** Chi-square test significant (p = 0.0189), indicating higher-priced products more likely to have higher ratings  
 - **Outliers:** Premium products with very high prices (>₹77,000) and extreme review counts (>400k)  
 
----
 ## Visualization Highlights
 
-### Category-wise Product Count
-![Category Bar Chart](images/category_bar.png)
+### 1. Top Categories by Product Count
+![Top Categories](https://github.com/Shobnam/amazon-ecommerce-eda/blob/main/top_categories.png)
 
-### Price vs Rating Scatter Plot
-<img src="images/price_rating_scatter.png" alt="Price vs Rating" width="600">
+### 2. Rating Distribution
+![Rating Distribution](https://github.com/Shobnam/amazon-ecommerce-eda/blob/main/rating_distribution.png)
+
+### 3. Price vs Rating
+![Price vs Rating](https://github.com/Shobnam/amazon-ecommerce-eda/blob/main/price_vs_rating.png)
+
+### 4. Discount % vs Rating
+![Discount vs Rating](https://github.com/Shobnam/amazon-ecommerce-eda/blob/main/discount_vs_rating.png)
+
+### 5. Discount Percentage Distribution
+![Discount Distribution](https://github.com/Shobnam/amazon-ecommerce-eda/blob/main/discount_distribution.png)
+
 
 
 
