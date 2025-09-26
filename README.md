@@ -42,6 +42,13 @@ Exploratory Data Analysis (EDA) on **1,465 Amazon products** to uncover trends i
 - **Outliers:** Premium products with very high prices (>₹77,000) and extreme review counts (>400k)  
 
 ---
-(https://github.com/Shobnam/amazon-ecommerce-eda/blob/main/amazon_eda_report.md)
+## Visualization Highlights
+
+### Category-wise Product Count
+![Category Bar Chart](images/category_bar.png)
+
+### Price vs Rating Scatter Plot
+<img src="images/price_rating_scatter.png" alt="Price vs Rating" width="600">
+
 
 
